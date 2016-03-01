@@ -1,0 +1,2 @@
+hi, this is Nivedithaa
+This is the first file written in this dir
